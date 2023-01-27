@@ -1,3 +1,6 @@
 streamlit
 numpy
 pandas
+FinanceDataReader
+datetime
+time
